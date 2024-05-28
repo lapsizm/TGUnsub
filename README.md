@@ -1,4 +1,4 @@
-# Hot to run:
+# How to run:
 - pip install telethon pyyaml pandas
 - переименовать config.yaml.example в config.yaml
 - поменять в config.yaml значения
